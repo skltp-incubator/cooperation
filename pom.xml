@@ -4,7 +4,7 @@
 
 	<groupId>se.skltp.cooperation</groupId>
 	<artifactId>cooperation</artifactId>
-	<version>1.3.2</version>
+	<version>1.3.3-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>Cooperation</name>
@@ -33,7 +33,7 @@
       <url>https://github.com/skltp-incubator/cooperation.git</url>
       <connection>scm:git:git://github.com/skltp-incubator/cooperation.git</connection>
       <developerConnection>scm:git:git://github.com/skltp-incubator/cooperation.git</developerConnection>
-      <tag>v1.3.2</tag>
+      <tag>HEAD</tag>
     </scm>
 	
 	<repositories>
